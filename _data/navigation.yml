@@ -1,4 +1,9 @@
-- title: Blog
-  url: /
 - title: About
   url: /about/
+- title: Education
+  url: /education/
+- title: Research
+  url: /research/
+- title: Publications
+  url: /publications/
+
