@@ -6,9 +6,9 @@
   url: https://scholar.google.com/citations?user=lcd2aEQAAAAJ&hl=zh-CN&oi=ao
   icon: fas fa-graduation-cap
 
-- title: GitHub
-  url: https://github.com/zqtann
-  icon: fab fa-github
+# - title: GitHub
+#   url: https://github.com/zqtann
+#   icon: fab fa-github
 
 - title: LinkedIn
   url: https://www.linkedin.com/in/zeqiong-tan/
