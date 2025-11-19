@@ -2,7 +2,7 @@
 title: Zeqiong Tan
 description: M.Eng. student in Information Engineering, Southeast University
 url: https://zqtann.github.io
-avatar: /avatar.jpeg
+avatar: /profile.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -28,14 +28,15 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: zqtan
-  card: summary
+# twitter:
+#   username: zqtan
+#   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Zeqiong Tan
   links:
-    - https://twitter.com/vszhub
+    # - https://twitter.com/vszhub
+    - https://scholar.google.com/citations?hl=zh-CN&user=lcd2aEQAAAAJ
     - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: en
@@ -55,5 +56,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Zeqiong Tan
-  url: https://github.com/vszhub/
+  url: https://github.com/zqtann/
   email: zqtan@seu.edu.cn
