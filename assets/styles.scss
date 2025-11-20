@@ -52,3 +52,42 @@
     margin-left: var(--spacer);
   }
 }
+
+/* 顶部导航条整体背景 */
+.home-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* 中间内容区域宽度、内边距 */
+.home-header-bar {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+}
+
+/* 导航列表横向排列、去掉小圆点 */
+.home-header-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.home-header-menu .pure-menu-item {
+  margin: 0;
+}
+
+/* 链接样式：变粗、不带下划线 */
+.home-header-menu .pure-menu-link {
+  text-decoration: none;
+  color: var(--body-color);
+  font-weight: 500;
+}
+
+/* 当前页面高亮（可选） */
+.home-header-menu .pure-menu-link.current-item {
+  border-bottom: 2px solid var(--body-color);
+}
+
