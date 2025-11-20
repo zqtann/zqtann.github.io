@@ -53,19 +53,3 @@
     margin-left: var(--spacer);
   }
 }
-
-/* 首页顶部内部导航（home-nav） */
-.home-nav {
-  margin-bottom: 1.5rem;
-  font-weight: 500;
-}
-
-.home-nav a {
-  margin-right: 1rem;
-  text-decoration: none;
-  color: var(--body-color);
-}
-
-.home-nav a:hover {
-  text-decoration: underline;
-}
