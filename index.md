@@ -3,6 +3,14 @@ layout: page
 title: ""
 ---
 
+<div class="home-nav">
+  <a href="#about">About</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#research">Research</a> ·
+  <a href="#publications">Publications</a>
+</div>
+
+
 ## About {#about}
 
 Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at [Southeast University (SEU)](https://www.seu.edu.cn/english/), China.  
