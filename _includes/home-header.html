@@ -1,16 +1,18 @@
 <div class="home-header pure-menu pure-menu-horizontal">
   <div class="home-header-bar">
-    {% if site.data.navigation %}
+  {% if site.data.navigation %}
+  <nav class="home-header pure-menu pure-menu-horizontal">
     <ul class="home-header-menu pure-menu-list">
       {% for item in site.data.navigation %}
         <li class="pure-menu-item">
-          <a href="{{ item.url | relative_url }}" class="pure-menu-link{% if page.url == item.url %} current-item{% endif %}">
+          <a href="{{ item.url | relative_url }}" class="pure-menu-link">
             {{ item.title }}
           </a>
         </li>
       {% endfor %}
     </ul>
-    {% endif %}
+  </nav>
+  {% endif %}
   </div>
 </div>
 
