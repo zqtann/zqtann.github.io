@@ -1,9 +1,12 @@
 - title: About
-  url: /about/
+  url: /#about
+  # url: /about/
 - title: Education
-  url: /education/
+  url: /#education
+  # url: /education/
 - title: Research
-  url: /research/
+  url: /#research
+  # url: /research/
 - title: Publications
-  url: /publications/
-
+  url: /#publications
+  # url: /publications/
