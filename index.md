@@ -3,11 +3,15 @@ layout: page
 title: ""
 ---
 
-<div class="home-nav">
-  <a href="#about">About</a> ·
-  <a href="#education">Education</a> ·
-  <a href="#research">Research</a> ·
-  <a href="#publications">Publications</a>
+<div class="home-header pure-menu pure-menu-horizontal">
+  <div class="home-header-bar">
+    <ul class="home-header-menu pure-menu-list">
+      <li class="pure-menu-item"><a href="#about" class="pure-menu-link">About</a></li>
+      <li class="pure-menu-item"><a href="#education" class="pure-menu-link">Education</a></li>
+      <li class="pure-menu-item"><a href="#research" class="pure-menu-link">Research</a></li>
+      <li class="pure-menu-item"><a href="#publications" class="pure-menu-link">Publications</a></li>
+    </ul>
+  </div>
 </div>
 
 
