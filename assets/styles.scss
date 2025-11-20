@@ -53,3 +53,14 @@
     margin-left: var(--spacer);
   }
 }
+
+.page .content {
+  font-family: var(--font-family-sans-serif) !important;
+}
+
+.home-header,
+.home-header .pure-menu-link,
+.home-header .home-header-menu {
+  font-family: var(--font-family-sans-serif) !important;
+}
+
