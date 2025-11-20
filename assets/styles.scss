@@ -54,27 +54,21 @@
   }
 }
 
-/* 中间正文区域使用无衬线字体 */
-.content {
+
+body .content,
+body .content p,
+body .content li {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-    "Helvetica Neue", Arial, sans-serif !important;
+               "Helvetica Neue", Arial, sans-serif !important;
 }
 
-/* 正文标题统一字体 */
-.content h1,
-.content h2,
-.content h3,
-.content h4,
-.content h5,
-.content h6 {
-  font-family: inherit;
+/* 标题也统一无衬线 */
+body .content h1,
+body .content h2,
+body .content h3,
+body .content h4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               "Helvetica Neue", Arial, sans-serif !important;
 }
 
-/* 顶部导航栏统一字体 */
-.home-header,
-.home-header .pure-menu-link,
-.home-header .home-header-menu {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-    "Helvetica Neue", Arial, sans-serif !important;
-}
 
