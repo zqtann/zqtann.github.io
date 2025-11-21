@@ -15,21 +15,21 @@ title: ""
 </div>
 
 
-## About {#about} 
+## 👋 About {#about} 
 
 Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at [Southeast University (SEU)](https://www.seu.edu.cn/english/), China.  
 My research interests include MIMO detection, cell-free massive MIMO, and hardware-efficient baseband signal processing.
 
 ---
 
-## Education {#education}
+## 🎓 Education {#education}
 
 - M.Eng., Information Engineering, Southeast University, Nanjing, China  
 - B.Eng., Communications Engineering, Xidian University, Xi’an, China  
 
 ---
 
-## Research {#research}
+## 🧠 Research {#research}
 
 My research focuses on:
 - Advanced MIMO detection algorithms  
@@ -38,6 +38,6 @@ My research focuses on:
 
 ---
 
-## Publications {#publications}
+## 📝 Publications {#publications}
 
 _Coming soon._ 
