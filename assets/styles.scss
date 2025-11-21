@@ -71,4 +71,14 @@ body .content h4 {
                "Helvetica Neue", Arial, sans-serif !important;
 }
 
+/* 修改左侧简介区字体颜色 */
+.sidebar-left {
+  color: #333 !important;   /* 你想要的颜色，可改 */
+}
+
+/* 左侧简介中的链接颜色 */
+.sidebar-left a {
+  color: #007acc !important; /* 可选：让链接变蓝 */
+}
+
 
