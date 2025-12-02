@@ -8,6 +8,7 @@ title: ""
     <ul class="home-header-menu pure-menu-list">
       <li class="pure-menu-item"><a href="#about" class="pure-menu-link">About</a></li>
       <li class="pure-menu-item"><a href="#education" class="pure-menu-link">Education</a></li>
+      <li class="pure-menu-item"><a href="#news" class="pure-menu-link">News</a></li>
       <li class="pure-menu-item"><a href="#research" class="pure-menu-link">Research</a></li>
       <li class="pure-menu-item"><a href="#publications" class="pure-menu-link">Publications</a></li>
     </ul>
@@ -28,6 +29,12 @@ Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at 
 
 ---
 
+## 🔥 News {#news}
+
+_Coming soon._ 
+
+---
+
 ## 🧠 Research {#research}
 
 My research focuses on:
@@ -36,12 +43,6 @@ My research focuses on:
 - Hardware–Algorithm Co-Optimization for Low-Power Signal Processing 
 - Memristor-Based Architectures for Energy-Efficient Baseband Signal Processing
 - 
----
-
-## 🔥 News {#news}
-
-_Coming soon._ 
-
 ---
 
 
