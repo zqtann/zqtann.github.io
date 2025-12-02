@@ -31,11 +31,19 @@ Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at 
 ## 🧠 Research {#research}
 
 My research focuses on:
-- Advanced MIMO detection algorithms  
-- Low-precision cell-free massive MIMO systems  
-- Hardware-friendly baseband architectures for B5G/6G
+- Signal Processing for Massive MIMO Systems
+- Machine Learning for Efficient Wireless Communications
+- Hardware–Algorithm Co-Optimization for Low-Power Signal Processing 
+- Memristor-Based Architectures for Energy-Efficient Baseband Signal Processing
+- 
+---
+
+## 🔥 News {#news}
+
+_Coming soon._ 
 
 ---
+
 
 ## 📝 Publications {#publications}
 
