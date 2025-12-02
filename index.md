@@ -42,6 +42,8 @@ My research focuses on:
 - Machine Learning for Efficient Wireless Communications
 - Hardware–Algorithm Co-Optimization for Low-Power Signal Processing 
 - Memristor-Based Architectures for Energy-Efficient Baseband Signal Processing
+
+
 ---
 
 
