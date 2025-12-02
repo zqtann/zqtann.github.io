@@ -24,8 +24,8 @@ Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at 
 
 ## 🎓 Education {#education}
 
-- **2023 - 2026 (Expected)**, M.Eng., Information and Communication Engineering, Southeast University, Nanjing, China.
-- **2019 – 2023** B.Eng., Communications Engineering, Xidian University, Xi’an, China  
+- *2023 - 2026 (Expected)*, M.Eng., Information and Communication Engineering, Southeast University, Nanjing, China.
+- *2019 – 2023* B.Eng., Communications Engineering, Xidian University, Xi’an, China  
 
 ---
 
