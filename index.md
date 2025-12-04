@@ -53,7 +53,7 @@ My research focuses on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">WCL 2025</div>
-      <img src='images/Tan_WCL_Fig.jpeg' alt="CL 2025 Summary" width="100%">
+      <img src='images/Tan_WCL_Fig.png' alt="CL 2025 Summary" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
