@@ -49,4 +49,26 @@ My research focuses on:
 
 ## 📝 Publications {#publications}
 
-_Coming soon._ 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WCL 2025</div>
+      <img src='images/Tan_WCL_Fig.png' alt="CL 2025 Summary" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[TrellisBsP: Trellis-based Belief-selective Propagation for MIMO Detection](https://ieeexplore.ieee.org/abstract/document/10839355)
+
+**Zeqiong Tan**, Wenyue Zhou, Yongming Huang, Chuan Zhang, Xiaohu You
+
+*IEEE Wireless Communications Letters*
+
+<p>(Volume 14 , Issue 4)</p>
+
+[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10839355)]
+[[PDF](/papers/WCL_TrellisBsP.pdf)]
+[[DOI](https://doi.org/10.1109/LWC.2024.3496568)]
+
+  </div>
+</div>
