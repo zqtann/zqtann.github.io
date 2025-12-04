@@ -99,6 +99,7 @@
 }
 
 /* ===== Publications 里 paper 卡片的样式 ===== */
+/* Publications 里的论文卡片布局 */
 
 .paper-box {
   display: flex;
@@ -108,52 +109,59 @@
   flex-wrap: wrap;
   border-bottom: 1px #efefef solid;
   padding: 2em 0;
+}
 
+.paper-box-image {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  order: 2;
+}
+
+.paper-box-image img {
+  max-width: 400px;
+  box-shadow: 3px 3px 6px #888;
+  object-fit: cover;
+}
+
+/* 右侧文字区域 */
+.paper-box-text {
+  max-width: 100%;
+  order: 1;
+}
+
+/* 中屏以上：左右排布 */
+@media (min-width: 48em) {
   .paper-box-image {
-    justify-content: center;
-    display: flex;
-    width: 100%;
-    order: 2;
-
-    img {
-      max-width: 400px;
-      box-shadow: 3px 3px 6px #888;
-      object-fit: cover;
-    }
-  }
-
-  .paper-box-text {
-    max-width: 100%;
+    justify-content: flex-start;
+    min-width: 200px;
+    max-width: 40%;
     order: 1;
   }
 
-  @include breakpoint($medium) {
-    .paper-box-image {
-      justify-content: flex-start;
-      min-width: 200px;
-      max-width: 40%;
-      order: 1;
-    }
-
-    .paper-box-text {
-      justify-content: flex-start;
-      padding-left: 2em;
-      max-width: 60%;
-      order: 2;
-    }
+  .paper-box-text {
+    justify-content: flex-start;
+    padding-left: 2em;
+    max-width: 60%;
+    order: 2;
   }
 }
 
+/* 如果要用左上角蓝色 badge，再加这几行（可选） */
+.paper-box-image > div {
+  position: relative;
+}
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+.paper-box-image .badge {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+  padding: 0.2rem 0.6rem;
+  background-color: #0056b3;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 2px;
 }
 
 
