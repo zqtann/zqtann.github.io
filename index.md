@@ -31,8 +31,9 @@ Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at 
 
 ## 🔥 News {#news}
 
-_Coming soon._ 
-
+- *2025.10*: &nbsp;🎉 My paper about the turbo receiver was accepted by TWC!
+- *2025.10*: &nbsp;🎉 I received the National Scholarship!
+- *2025.01*: &nbsp;🎉 [TrellisBsP](https://ieeexplore.ieee.org/abstract/document/10839355) was published by WCL!
 ---
 
 ## 🧠 Research {#research}
