@@ -64,7 +64,7 @@ My research focuses on:
 
 *IEEE Wireless Communications Letters*
 
-<p>(Volume 14 , Issue 4)</p>
+<p>(Volume 14 , Issue 4, April 2025)</p>
 
 [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10839355)]
 [[PDF](/papers/WCL_TrellisBsP.pdf)]
