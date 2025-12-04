@@ -102,27 +102,50 @@
 
 .paper-box {
   display: flex;
-  align-items: flex-start;
-  margin: 1.5rem 0;
-  padding: 1rem 1.2rem;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-  background-color: #ffffff;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0;
+
+  .paper-box-image {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 2;
+
+    img {
+      max-width: 400px;
+      box-shadow: 3px 3px 6px #888;
+      object-fit: cover;
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      justify-content: flex-start;
+      min-width: 200px;
+      max-width: 40%;
+      order: 1;
+    }
+
+    .paper-box-text {
+      justify-content: flex-start;
+      padding-left: 2em;
+      max-width: 60%;
+      order: 2;
+    }
+  }
 }
 
-.paper-box-image {
-  flex: 0 0 260px;        /* 左侧图的宽度 */
-  margin-right: 1.5rem;
-}
 
-.paper-box-image img {
-  display: block;
-  width: 100%;
-  border-radius: 4px;
-}
-
-/* 左上角蓝色 badge */
-.paper-box-image .badge {
+.badge {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
@@ -131,21 +154,6 @@
     color: white;
     background-color: #00369f;
     font-size: .8em;
-}
-
-/* 为了让 badge 盖在图片上，需要定位容器 */
-.paper-box-image > div {
-  position: relative;
-}
-
-.paper-box-text {
-  flex: 1;
-  font-size: 0.98rem;
-  line-height: 1.6;
-}
-
-.paper-box-text p {
-  margin: 0.1rem 0 0.3rem;
 }
 
 
