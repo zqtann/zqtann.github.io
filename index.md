@@ -74,6 +74,8 @@ My research interest focuses on:
 [[PDF](/papers/WCL_TrellisBsP.pdf)]
 [[DOI](https://doi.org/10.1109/LWC.2024.3496568)]
 
+> The proposed TrellisBsP detector leverages the trellis representation and the pathfinding strategy, achieving reduced computational complexity and parallel message updates without error performance degradation.
+
   </div>
 </div>
 
