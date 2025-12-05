@@ -57,10 +57,11 @@ My research interest focuses on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">WCL 2025</div>
-      <img src='images/Tan_WCL_Fig.png' alt="CL 2025 Summary" width="100%">
+      <img src='images/Tan_WCL_Fig.png' alt="WCL 2025 Summary" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+
+  <div class='paper-box-text pub-item' markdown="1">
 
 [TrellisBsP: Trellis-based Belief-selective Propagation for MIMO Detection](https://ieeexplore.ieee.org/abstract/document/10839355)
 
@@ -68,11 +69,11 @@ My research interest focuses on:
 
 *IEEE Wireless Communications Letters*
 
-<p>(Volume 14 , Issue 4, April 2025)</p>
+(Volume 14, Issue 4, April 2025)
 
-[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10839355)]
-[[PDF](/papers/WCL_TrellisBsP.pdf)]
-[[DOI](https://doi.org/10.1109/LWC.2024.3496568)]
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10839355) · 
+[PDF](/papers/WCL_TrellisBsP.pdf) · 
+[DOI](https://doi.org/10.1109/LWC.2024.3496568)
 
 > The proposed TrellisBsP detector leverages the trellis representation and the pathfinding strategy, achieving reduced computational complexity and parallel message updates without error performance degradation.
 
