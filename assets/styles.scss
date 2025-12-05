@@ -90,16 +90,15 @@
 
 /* 修改左侧简介区字体颜色 */
 .sidebar-left {
-  color: #333 !important;   /* 你想要的颜色，可改 */
+  color: #333 !important;
 }
 
 /* 左侧简介中的链接颜色 */
 .sidebar-left a {
-  color: #5E6A71 !important; /* 可选：让链接变蓝 */
+  color: #5E6A71 !important;
 }
 
-/* ===== Publications 里 paper 卡片的样式 ===== */
-/* Publications 里的论文卡片布局 */
+/* ===== Publications 里 paper 卡片的布局样式 ===== */
 
 .paper-box {
   display: flex;
@@ -111,6 +110,7 @@
   padding: 2em 0;
 }
 
+/* 左侧图片区域 */
 .paper-box-image {
   justify-content: center;
   display: flex;
@@ -147,7 +147,7 @@
   }
 }
 
-/* 如果要用左上角蓝色 badge，再加这几行（可选） */
+/* 左上角蓝色 badge（可选） */
 .paper-box-image > div {
   position: relative;
 }
@@ -165,13 +165,17 @@
 }
 
 /* 更紧凑的论文文字行距 */
+.pub-item {
+  line-height: 1.35;
+}
+
 .pub-item p,
 .pub-item a,
 .pub-item strong,
 .pub-item em,
 .pub-item li {
   line-height: 1.35;
-  margin-bottom: 0.25rem; /* 控制段间距 */
+  margin-bottom: 0.25rem;  /* 控制段间距 */
 }
 
 .pub-item > blockquote {
