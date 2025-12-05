@@ -164,6 +164,20 @@
   border-radius: 2px;
 }
 
+/* 更紧凑的论文文字行距 */
+.pub-item p,
+.pub-item a,
+.pub-item strong,
+.pub-item em,
+.pub-item li {
+  line-height: 1.35;
+  margin-bottom: 0.25rem; /* 控制段间距 */
+}
+
+.pub-item > blockquote {
+  line-height: 1.3;
+  margin-top: 0.5rem;
+}
 
 
 
