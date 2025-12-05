@@ -39,9 +39,10 @@ Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at 
 
 ## 🧠 Research {#research}
 
-My research focuses on:
+My research interest focuses on:
 - Signal Processing for Massive MIMO Systems
 - Machine Learning for Efficient Wireless Communications
+- Integrated Sensing and Communication (ISAC)
 - Hardware–Algorithm Co-Optimization for Low-Power Signal Processing 
 - Memristor-Based Architectures for Energy-Efficient Baseband Signal Processing
 
