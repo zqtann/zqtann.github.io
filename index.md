@@ -51,6 +51,7 @@ My research focuses on:
 
 ## 📝 Publications {#publications}
 
+### Published Journals
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -75,8 +76,28 @@ My research focuses on:
   </div>
 </div>
 
+- **[WCL 2025]** [BsP-SIC: Belief-selective Propagation-Aided SIC Detection for MIMO Systems](https://ieeexplore.ieee.org/abstract/document/11215620) \
+  Wenyue Zhou, Zhongwen Liu, **Zeqiong Tan**, Liping Li, Yongming Huang, Xiaohu You, Chuan Zhang<br>
+  *IEEE Wireless Communications Letters (Early Access)* [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11215620)]
+[[PDF](/papers/WCL_BsPSIC.pdf)]
+[[DOI](https://doi.org/10.1109/LWC.2025.3586951)]
+
+- **[CL 2025]** [SHINE: Symbol-Based Heuristic Iterative NB-LDPC Coded MIMO BP Detection and Decoding](https://ieeexplore.ieee.org/abstract/document/11007208) \
+  Wenyu Huang, Wenyue Zhou, Yutai Sun, Wuqiong Zhao, **Zeqiong Tan**, Yongming Huang, Xiaohu You, Chuan Zhang<br>
+  *IEEE Communications Letters (Early Access)* [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11007208)]
+[[PDF](/papers/CL_SHINE.pdf)]
+[[DOI](https://doi.org/10.1109/LCOMM.2025.3561223)]
+
 - **[TCAS-I 2024]** [Approximate Belief-Selective Propagation Detector for Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10472894) \
   Wenyue Zhou, Zhenhao Ji, **Zeqiong Tan**, Zhuangzhuang You, Xiaosi Tan, Xiaohu You, Chuan Zhang<br>
-  *IEEE Transactions on Circuits and Systems I: Regular Papers ( Volume: 71, Issue: 6, June 2024)* [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10472894)]
+  *IEEE Transactions on Circuits and Systems I: Regular Papers (Volume: 71, Issue: 6, June 2024)* [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10472894)]
 [[PDF](/papers/TCASI_aBsP.pdf)]
 [[DOI](https://doi.org/10.1109/TCSI.2024.3373434)]
+
+### Published Conferences
+- **ICTC 2024]** [Block-Diagonal Belief-Propagation Detection for Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10601989) \
+  Bohan Yang, Wenyue Zhou, **Zeqiong Tan**, Xiaosi Tan, Xiaohu You, Chuan Zhang<br>
+  *2024 5th Information Communication Technologies Conference (ICTC)* [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10601989)]
+[[PDF](/papers/ICTC_BP.pdf)]
+[[DOI](https://doi.org/10.1109/ICTC61510.2024.10601989)]
+
