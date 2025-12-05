@@ -76,7 +76,7 @@ My research focuses on:
 </div>
 
 - **[TCAS-I 2024]** [Approximate Belief-Selective Propagation Detector for Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10472894) \
-  Wenyue Zhou, Zhenhao Ji, **Zeqiong Tan**, Zhuangzhuang You, Xiaosi Tan, Xiaohu You, Chuan Zhang\
+  Wenyue Zhou, Zhenhao Ji, **Zeqiong Tan**, Zhuangzhuang You, Xiaosi Tan, Xiaohu You, Chuan Zhang<br>
   *IEEE Transactions on Circuits and Systems I: Regular Papers ( Volume: 71, Issue: 6, June 2024)* [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10472894)]
 [[PDF](/papers/TCASI_aBsP.pdf)]
 [[DOI](https://doi.org/10.1109/TCSI.2024.3373434)]
