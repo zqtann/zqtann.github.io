@@ -31,7 +31,7 @@ Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at 
 
 ## 🔥 News {#news}
 
-- *2025.10*: &nbsp;🎉 My paper about the turbo receiver was accepted by IEEE TWC!
+- *2026.01*: &nbsp;🎉 [FCBsP](https://ieeexplore.ieee.org/abstract/document/10472894) was published at IEEE TWC!
 - *2025.10*: &nbsp;🎉 I received the National Scholarship!
 - *2025.01*: &nbsp;🎉 [TrellisBsP](https://ieeexplore.ieee.org/abstract/document/10839355) was published at IEEE WCL!
 
@@ -39,9 +39,9 @@ Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at 
 
 ## 🧠 Research {#research}
 
-My research interest focuses on:
+My research interests focus on:
 - Signal Processing for Massive MIMO Systems
-- Machine Learning for Efficient Wireless Communications
+- Machine Learning for Efficient Wireless Communications and Networks
 - Integrated Sensing and Communication (ISAC)
 - Hardware–Algorithm Co-Optimization for Low-Power Signal Processing 
 - Memristor-Based Architectures for Energy-Efficient Baseband Signal Processing
@@ -53,6 +53,35 @@ My research interest focuses on:
 ## 📝 Publications {#publications}
 
 ### Published Journals
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TWC 2026</div>
+      <img src='images/Tan_26TWC_Fig.png' alt="TWC 2026 Summary" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text pub-item' markdown="1">
+
+[FCBsP: Fixed-Constellation Belief-selective Propagation Detection for MIMO Turbo Receivers](https://ieeexplore.ieee.org/abstract/document/10839355)
+
+**Zeqiong Tan**, Wenyue Zhou, Kefan Wang, Yongming Huang, Xiaohu You, Chuan Zhang 
+
+*IEEE Transactions on Wireless Communications*
+
+(Early access)
+
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/1083935) · 
+[PDF](/papers/TWC_FCBsP.pdf) · 
+[DOI](https://doi.org/10.1109/TCSI.2024.3373434)
+
+> The proposed FCBsP turbo receiver jointly refines the detector, the detector-decoder interface, as well as the receiver architecture, achieving significantly reduced processing latency while maintaining excellent error-rate performance.
+
+  </div>
+</div>
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
