@@ -31,9 +31,9 @@ Welcome! I’m **Zeqiong Tan**, an M.Eng. student in Information Engineering at 
 
 ## 🔥 News {#news}
 
-- *2026.01*: &nbsp;🎉 [FCBsP](https://ieeexplore.ieee.org/abstract/document/10472894) was published at IEEE TWC!
+- *2026.01*: &nbsp;🎉 [FCBsP Turbo Receiver](https://ieeexplore.ieee.org/document/11358997) was published at IEEE TWC!
 - *2025.10*: &nbsp;🎉 I received the National Scholarship!
-- *2025.01*: &nbsp;🎉 [TrellisBsP](https://ieeexplore.ieee.org/abstract/document/10839355) was published at IEEE WCL!
+- *2025.01*: &nbsp;🎉 [TrellisBsP Detector](https://ieeexplore.ieee.org/abstract/document/10839355) was published at IEEE WCL!
 
 ---
 
