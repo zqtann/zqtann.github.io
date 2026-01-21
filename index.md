@@ -63,7 +63,7 @@ My research interests focus on:
 
   <div class='paper-box-text pub-item' markdown="1">
 
-[FCBsP: Fixed-Constellation Belief-selective Propagation Detection for MIMO Turbo Receivers](https://ieeexplore.ieee.org/abstract/document/10839355)
+[FCBsP: Fixed-Constellation Belief-selective Propagation Detection for MIMO Turbo Receivers](https://ieeexplore.ieee.org/document/11358997)
 
 **Zeqiong Tan**, Wenyue Zhou, Kefan Wang, Yongming Huang, Xiaohu You, Chuan Zhang 
 
@@ -71,7 +71,7 @@ My research interests focus on:
 
 (Early access)
 
-[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/1083935) · 
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11358997) · 
 [PDF](/papers/TWC_FCBsP.pdf) · 
 [DOI](https://doi.org/10.1109/TCSI.2024.3373434)
 
